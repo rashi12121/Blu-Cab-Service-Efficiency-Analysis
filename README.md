@@ -3,6 +3,7 @@
 ## 📘 Project Overview
 
 BlueCab Services offers cab rides from five airport pickup points across India. To enhance customer experience and operational efficiency, the company sought insights into how booking confirmations perform during **peak and non-peak hours** and the **impact of outliers** on booking outcome times. This project analyzes ride data and presents interactive visualizations in **Power BI**.
+
 ![Cab Image](https://github.com/rashi12121/Blu-Cab-Service-Efficiency-Analysis/blob/main/BluCab%20Image.png)
 ---
 
