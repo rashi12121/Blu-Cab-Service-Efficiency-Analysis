@@ -44,7 +44,7 @@ Created a **dashboard** showing metrics for booking performance:
 
 Filters:
 - Time Category (Peak / Non-Peak)
-- Pickup Area
+
 ![Overall Dashboard](https://github.com/rashi12121/Blu-Cab-Service-Efficiency-Analysis/blob/main/Blu%20Cab%20ABT_ACT.png)
 ---
 
